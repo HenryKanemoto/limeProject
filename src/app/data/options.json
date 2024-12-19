@@ -1,0 +1,20 @@
+[
+    {
+        "img": "/img/pc-logo.png",
+        "alt": "Selecionar Versão de PC",
+        "id": "",
+        "version": "PC"
+    },
+    {
+        "img": "/img/ps4-logo.png",
+        "alt": "Selecionar Versão de PS4",
+        "id": "",
+        "version": "PS4"
+    },
+    {
+        "img": "/img/xbox-logo.png",
+        "alt": "Selecionar Versão de Xbox",
+        "id": "",
+        "version": "XBOX"
+    }
+]

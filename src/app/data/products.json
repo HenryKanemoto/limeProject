@@ -1,0 +1,23 @@
+[
+    {
+        "name": "FIFA 14",
+        "id": 1,
+        "img": "/img/fifa14-product.jpeg",
+        "price": "50.00",
+        "version": "PC"
+    },
+    {
+        "name": "FIFA 16",
+        "id": 2,
+        "img": "/img/fifa16-product.jpg",
+        "price": "79.00",
+        "version": "PC"
+    },
+    {
+        "name": "PES 21",
+        "id": 3,
+        "img": "/img/pes21-product.jpg",
+        "price": "79.00",
+        "version": "PC"
+    }
+]
